@@ -72,6 +72,6 @@ _11. Aquí podremos editar nuestra página web_
 
 <img src="/Práctica 1/images/Captura de pantalla (151).png" alt="logo"/>
 
-_12. Listo, si accedemos a la url nuevamente y nos mostrará como luce nuestra página web_
+_12. Listo, accedemos a la url nuevamente y nos mostrará como luce nuestra página web_
 
 <img src="/Práctica 1/images/Captura de pantalla (152).png" alt="logo"/>
